@@ -1,16 +1,22 @@
-# bmi_calculator
+# BMI CALCULATOR
 
-A new Flutter project.
+This project is a simple app for calculating your BMI.
+It has a well structured and clean code with a simply calculating function.
 
-## Getting Started
+## Intresting used Widgets for Beginners
 
-This project is a starting point for a Flutter application.
+In this project, a lot of intersting widgets have been used.
+1. SliderWidget
+2. GestureDetector Widget
+3. RawMaterial Widget
 
-A few resources to get you started if this is your first Flutter project:
+Finally and edit in the original theme data and slider theme data that can be found in the **``` main.dart```** file. (Action done by using copyWith() function)
+-   
+## Structure 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1.  The **```inputpage.dart ```** class includes the interactive widgets from which the user inouts all his details
+2.  The **```result_page.dart```** class includes the result and interpretation of the user's shared values.
+3.  The **```componants```**  folder includes all necessary and repetitave widget componants to keep the code cleaner and maintain a good structure. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+For any question or clarification, feel free to contact me via email.
