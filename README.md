@@ -9,7 +9,6 @@ In this project, a lot of intersting widgets have been used.
 1. SliderWidget
 2. GestureDetector Widget
 3. RawMaterial Widget
-
 Finally and edit in the original theme data and slider theme data that can be found in the **``` main.dart```** file. (Action done by using copyWith() function)
 -   
 ## Structure 
